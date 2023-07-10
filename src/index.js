@@ -22,3 +22,4 @@ app.all("*", (req, res) => {
 app.listen(port, () => {
   console.log("server is up");
 });
+console.log("fsdfasdasdasda");
